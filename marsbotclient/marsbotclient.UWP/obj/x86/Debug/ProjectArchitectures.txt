@@ -1,0 +1,1 @@
+C:\Users\Alvin\Documents\Visual Studio 2017\Projects\marsbotclient\marsbotclient\marsbotclient.UWP\marsbotclient.UWP.csproj;x86
